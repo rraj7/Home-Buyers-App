@@ -1,0 +1,16 @@
+# Core ML & Data
+numpy
+pandas
+scikit-learn
+tensorflow>=2.15,<2.21
+
+# API
+fastapi
+uvicorn[standard]
+
+# Utilities
+joblib
+
+matplotlib
+seaborn
+jupyter

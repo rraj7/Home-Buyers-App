@@ -1,0 +1,45 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# MacOS
+.DS_Store
+
+# Logs
+*.log
+
+# Models
+models/*.pkl
+models/*.keras
+models/*.h5
+
+# Node/Frontend (if using npm or yarn later)
+node_modules/
+build/
+dist/
+*.lock
+
+# VSCode / IDE
+.vscode/
+.idea/
+
+# Environment variables
+.env
+*.env
+
+# Streamlit cache
+.streamlit/
+
+# Uvicorn reload artifacts
+*.pid
